@@ -1,4 +1,4 @@
-Exercices of Graphs made in Java:
+GraphsExercices made in Java:
 
 1.)
 

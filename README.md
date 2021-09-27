@@ -5,4 +5,4 @@ Exercices of Graphs made in Java:
 ![](src/assets/graph1.png)
 
 2.)
-![](src/assets/graph2.png)
+![](src/assets/grafo2.png)
